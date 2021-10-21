@@ -6,7 +6,7 @@ Improving detection of scanning attacks on heterogeneous networks with Federated
 ## Description of the notebooks
 > `Federated Learning.ipynb` - All data wrangling for the federated learning experiment reported on the paper.
 > 
-> `Baseline.ipynb` - Baseline obtained as a naive scanning attack detection task centralizing all the data.
+> `Centralized.ipynb` - Evaluation of naive scanning attack detection learning task centralizing all the data.
 
 ---
 ## How to run
