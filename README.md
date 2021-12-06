@@ -1,7 +1,10 @@
 # Improving detection of scanning attacks on heterogeneous networks with Federated Learning [WAIN 2021](https://www.performance2021.deib.polimi.it/wain/)
 The source code for reproductibility of [WAIN 2021](https://www.performance2021.deib.polimi.it/wain/) paper: 
 
-Improving detection of scanning attacks on heterogeneous networks with Federated Learning
+Improving detection of scanning attacks on heterogeneous networks with Federated Learning, see the paper presentation:
+
+[![Watch the video](https://img.youtube.com/vi/hV0CMnykNVk/0.jpg)](https://www.youtube.com/watch?v=hV0CMnykNVk)
+
 
 ## Description of the notebooks
 > `Federated Learning.ipynb` - All data wrangling for the federated learning experiment reported on the paper. With 13 agents (data silos) comparing local trained models to federated learning using `FedAvg`.
