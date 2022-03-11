@@ -1,5 +1,5 @@
 # Improving detection of scanning attacks on heterogeneous networks with Federated Learning [WAIN 2021](https://www.performance2021.deib.polimi.it/wain/)
-The source code for reproductibility of [WAIN 2021](https://www.performance2021.deib.polimi.it/wain/) paper: 
+The source code for reproductibility of WAIN 2021 [paper](http://www.performance2021.deib.polimi.it/wp-content/uploads/2021/10/WAIN_2021_paper_14_deCarvalhoBertoli.pdf): 
 
 Improving detection of scanning attacks on heterogeneous networks with Federated Learning, see the paper presentation:
 
